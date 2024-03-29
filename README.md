@@ -24,6 +24,12 @@ Inspired by a scene from the 1986 movie "A Better Tomorrow," created in Hong Kon
 
 ## Community
 <p align="left">
+  <a href="https://www.dextools.io/app/pt/bnb/pair-explorer/0x561ce3a48028be411425dd18e2eee5e2319bfb5b?t=1711742869894" target="blank"><img align="center"
+      src="https://github.com/BeaverMemeToken/BeaverMemeToken/blob/main/Dextools.png"
+      alt="DexTools" height="30" width="40" /></a>
+  <a href="https://bscscan.com/address/0x53D3B6fEaAdE6E1976b56FA02E48BaB9fe9640fb" target="blank"><img align="center"
+      src="https://github.com/BeaverMemeToken/BeaverMemeToken/blob/main/BSC%20Scan.png?raw=true"
+      alt="BSC Scan" height="30" width="40" /></a>
   <a href="https://t.me/BeaverMemeToken" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/BeaverMemeToken/BeaverMemetoken/ed6b1ac29a741867ae7932aaaf0480f1fb6c1e34/telegram-color.svg"
       alt="Connect Linkedin" height="30" width="40" /></a>
